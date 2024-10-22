@@ -1,4 +1,4 @@
-<h1 align="center">ꪶZenitsu-Bot-V8ꫂ<br></h1>
+<h1 align="center">ꪶZenitsu-Bot-V9ꫂ<br></h1>
 
 <a href="https://ibb.co/7k1KVjd"><img src="https://i.ibb.co/RjDcPYk/Zenitsu.jpg" alt="Zenitsu" border="0"></a>
 
