@@ -117,6 +117,19 @@ rm -rf session
 node index --pairing-code
 ```
 
+---
+<h2 align="center">  To Restart the Bot for Termux </h2>
+
+```
+cd Zenitsu-Bot9
+```
+```
+rm -rf session
+```
+```
+node index --pairing-code
+``` 
+
 ## UBUNTU
 ```
 apt update && apt -y upgrade
@@ -169,20 +182,8 @@ node index --pairing-code
 ```
 
  ---
-<h2 align="center">  To Restart the Bot for Termux </h2>
-
-```
-cd Zenitsu-Bot9
-```
-```
-rm -rf session
-```
-```
-node index --pairing-code
-``` 
- ---
  
-<h2 align="center">  To Restart the Bot for ubuntu </h2>
+<h2 align="center">  To Restart the Bot for Ubuntu </h2>
 
 ```
 proot-distro login ubuntu
