@@ -129,7 +129,7 @@ rm -rf session
 ```
 node index --pairing-code
 ``` 
-
+---
 ## UBUNTU
 ```
 apt update && apt -y upgrade
