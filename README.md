@@ -67,70 +67,9 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 
 * Any text editor
 -------
-## TERMUX
-
+## TERMUX/UBUNTU
 _First Of All Fork The Repo Then You'll Be Able To Do All The Remaining Steps.Add environment variables in config.env and config.js then run
 following commands_
-```
-apt update
-```
-```
-apt upgrade
-```
-```
-pkg update && pkg upgrade
-```
-```
-pkg install bash
-```
-```
-pkg install libwebp
-```
-```
-pkg install git -y
-```
-```
-pkg install nodejs -y 
-```
-```
-pkg install ffmpeg -y 
-```
-```
-pkg install wget
-```
-```
-pkg install yarn
-```
-```
-pkg install imagemagick -y
-```
-```
-git clone https://github.com/DGDEEPAK/Zenitsu-Bot9
-```
-```
-cd Zenitsu-Bot9
-```
-```
-rm -rf session
-```
-```
-node index --pairing-code
-```
-
----
-<h2 align="center">  To Restart the Bot for Termux </h2>
-
-```
-cd Zenitsu-Bot9
-```
-```
-rm -rf session
-```
-```
-node index --pairing-code
-``` 
----
-## UBUNTU
 ```
 apt update && apt -y upgrade
 ```
@@ -183,7 +122,7 @@ node index --pairing-code
 
  ---
  
-<h2 align="center">  To Restart the Bot for Ubuntu </h2>
+<h2 align="center">  To Restart the Bot for Termux/Ubuntu </h2>
 
 ```
 proot-distro login ubuntu
