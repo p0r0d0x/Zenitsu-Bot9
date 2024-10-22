@@ -124,7 +124,7 @@ node index --pairing-code
  ---
  
 <h2 align="center">  To Restart the Bot </h2>
----
+
 ```
 proot-distro login ubuntu
 ```
