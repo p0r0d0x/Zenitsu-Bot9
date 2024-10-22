@@ -167,14 +167,27 @@ yarn install --network-concurrency 1 && npm install
 ```
 node index --pairing-code
 ```
-  
+
+ ---
+<h2 align="center">  To Restart the Bot for Termux </h2>
+
+```
+cd Zenitsu-Bot9
+```
+```
+rm -rf session
+```
+```
+node index --pairing-code
+``` 
  ---
  
-<h2 align="center">  To Restart the Bot </h2>
+<h2 align="center">  To Restart the Bot for ubuntu </h2>
+
 ```
 proot-distro login ubuntu
 ```
- ```
+```
 cd Zenitsu-Bot9
 ```
 ```
