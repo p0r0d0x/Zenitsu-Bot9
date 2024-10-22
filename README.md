@@ -68,6 +68,7 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 * Any text editor
 -------
 ## TERMUX/UBUNTU
+_*Use Same Command for both Termux and Ubuntu*_
 _First Of All Fork The Repo Then You'll Be Able To Do All The Remaining Steps.Add environment variables in config.env and config.js then run
 following commands_
 ```
