@@ -114,7 +114,7 @@ cd Zenitsu-Bot9
 rm -rf session
 ```
 ```
-node .
+node index --pairing-code
 ```
 
 ## UBUNTU
